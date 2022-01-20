@@ -3,4 +3,4 @@ A PyTorch implementation of PointNet.
 
 ## Incomplete.
 
-This project is not completed. We are still working.
+This project is incomplete. We are still working.
