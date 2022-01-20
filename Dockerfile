@@ -24,6 +24,7 @@ RUN apt-get update && \
 
 RUN pip3 install \
     Pillow \
+    trimesh \
     tqdm \
     torch==1.10.1+cu113 \
     torchvision==0.11.2+cu113 \
